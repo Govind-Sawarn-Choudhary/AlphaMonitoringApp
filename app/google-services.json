@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "744113584495",
+    "project_id": "the-legand-farm",
+    "storage_bucket": "the-legand-farm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744113584495:android:7ee50816fef5d29964d09a",
+        "android_client_info": {
+          "package_name": "com.example.alphamonitoringapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744113584495-sc0ehdmkla035cauoe43ufp22a809cb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alphamonitoringapp",
+            "certificate_hash": "5440d42058e393c09961202871c978ad41eeda27"
+          }
+        },
+        {
+          "client_id": "744113584495-ltte78v6gmgtacen81508qhe9ju8vd8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdxUO8de72FD7t-XqTWK1BOlri-GNIeAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744113584495-ltte78v6gmgtacen81508qhe9ju8vd8f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "744113584495-petbicdad0hhsoaeful2avfcsv2qqe5h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.alphamonitoringapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

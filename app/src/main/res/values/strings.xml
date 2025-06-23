@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Child Monitoring</string>
+    <string name="default_web_client_id">744113584495-ltte78v6gmgtacen81508qhe9ju8vd8f.apps.googleusercontent.com</string>
+    <string name="setting_up_permissions_and_uploading_data">Setting up permissions and uploading data...</string>
+</resources>
